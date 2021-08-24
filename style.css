@@ -1,5 +1,5 @@
 html {
-  font-family: sans-serif;
+  font-family: sans-sNew Baskerville;
 }
 
 body {
@@ -7,9 +7,25 @@ body {
   max-width: 800px;
   min-width: 480px;
   margin: 0 auto;
+  background-image: url(pic2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: aliceblue;
+}
+
+.body p {
+  font-family: cursive;
+  color: cornsilk;
 }
 
 .lastResult {
   color: white;
   padding: 3px;
+}
+
+label {
+  color: cornsilk;
 }
